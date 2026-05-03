@@ -42,7 +42,8 @@ main {
         flex-direction: column;
         gap: .5rem;
         padding-left: 0;
-        list-style-position: inside;
+        list-style-position: outside;
+        padding-left: 1rem;
     }
 
     .preparation-container {
